@@ -106,3 +106,11 @@ body {
     width: 100vw; /* Anchura igual al ancho de la ventana del navegador */
     height: auto; /* Altura ajustada automáticamente para mantener la proporción */
 }
+
+.textbox {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #222; /* Color de fondo para la caja de texto */
+    border-radius: 5px;
+    color: #fff; /* Color de texto */
+}

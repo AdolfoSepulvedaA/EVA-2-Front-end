@@ -1,1 +1,1 @@
-Esta es la version 1 de la pagina web
+El documento "landing.html" es la pagina principal
